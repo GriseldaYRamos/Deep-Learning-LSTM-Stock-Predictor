@@ -15,7 +15,3 @@ Closing model:
 
 FNG model:
 <img width="710" alt="image" src="https://user-images.githubusercontent.com/94207103/157894663-5dc56b10-a714-4a38-8467-a11effbe95fc.png">
-
-
-## Which window size works best for the model?
-
