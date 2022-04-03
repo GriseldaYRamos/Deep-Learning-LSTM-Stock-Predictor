@@ -1,9 +1,10 @@
 # Deep Learning: LSTM Stock Predictor
 
-Comparing two 
+
 
 
 The closing price predictor model had a lower loss. 
+
 Closing model:
 <img width="427" alt="image" src="https://user-images.githubusercontent.com/94207103/157894284-8354b03c-c069-4704-b84b-b50dfea8c3c2.png">
 
